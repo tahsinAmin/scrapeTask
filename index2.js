@@ -18,14 +18,8 @@ const fetch_data = async () => {
 
     let jsonData = JSON.parse($("script#__NEXT_DATA__").text());
 
-    fs.writeFileSync("newData2.json", JSON.stringify(jsonData), "utf8");
-
-    let jsonString = fs.readFileSync("./newData2.json", "utf8");
-
     let data =
-      JSON.parse(jsonString)["props"]["pageProps"]["urqlState"]["55239821566"][
-        "data"
-      ];
+      jsonData["props"]["pageProps"]["urqlState"]["55239821566"]["data"];
     let edges = JSON.parse(data)["advertSearch"]["edges"];
     console.log("edges =", edges);
     console.log("Json file to arrray");
