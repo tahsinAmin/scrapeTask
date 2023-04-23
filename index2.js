@@ -18,18 +18,11 @@ const fetch_data = async () => {
 
     let jsonData = JSON.parse($("script#__NEXT_DATA__").text());
 
-    let urqlState = jsonData["props"]["pageProps"]["urqlState"];
-
-    let data = "";
-    for (var prop in urqlState) {
-      if (prop === "-2580735814") {
-        continue;
-      }
-      data = urqlState[prop]["data"];
-    }
-    let advertSearch = JSON.parse(data)["advertSearch"];
-    let pageSize = advertSearch["pageInfo"]["pageSize"];
-    let edges = advertSearch["edges"];
+    let data =
+      jsonData["props"]["pageProps"]["urqlState"]["55239821566"]["data"];
+    let edges = JSON.parse(data)["advertSearch"]["edges"];
+    console.log("edges =", edges);
+    console.log("Json file to arrray");
   } catch (e) {
     console.log(e);
   }
