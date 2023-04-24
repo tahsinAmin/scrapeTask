@@ -52,6 +52,12 @@ I have experience using Selenium with Python.
 
 ### Other considerations?
 
+### Thoughts
+
+```
+- For getTotalAdsCount function, Getting number of advertisement count is not possible with cheerio as the data is rendered later. Will be looking into it using Selenium. Therefore, will be continueing on separate branch
+```
+
 ## References
 
 1.  [Get text in parent without children using cheerio](https://stackoverflow.com/questions/20832910/get-text-in-parent-without-children-using-cheerio)
