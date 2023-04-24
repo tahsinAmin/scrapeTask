@@ -1,0 +1,3220 @@
+{
+  "url": "https://www.otomoto.pl/ciezarowe/uzytkowe/mercedes-benz/od-2014/q-actros?search%5Bfilter_enum_damaged%5D=0&search%5Border%5D=created_at%3Adesc",
+  "seoPageTitle": "Mercedes-Benz ciężarowe od 2014 Ciągnik siodłowy - otomoto.pl",
+  "sortedBy": "created_at:desc",
+  "locationCriteriaChanged": false,
+  "subscriptionKey": "tFU/Mq7qJDo8bgnFJ3sl+2HSCqK5Ch4OWOhCfdDPEeAs0r4iNCMA4Y0euYiCUmglwiZlf5PdQJxBC8+KPnW1UAifcRaUSjwHxkmsINh0qlVsl8I6HcZ3emHSCqK5Ch4O6o67BEpj25Du9tmhmpWLLmrAChb60aCcEkFcD7dPWyr5QJ5N5SGJWA621jSqEWfc9FlMNRHARlI1NrNKrYLqgWFanNnP/gQWxFDbEfCd6TlGOd4mKUCoxZMu591sNEAh9iYxJUUjqhvhky0A5H0wv9DIgfXowxcmvPBuXxA3ug2AHFDcjvYNihP60i8aEtQLKM2GUSmbA+M5HuNX4YOV/pSBai17ITy/VhPx8G35MmA=",
+  "totalCount": 454,
+  "appliedLocation": null,
+  "appliedFilters": [
+    {
+      "name": "filter_enum_make",
+      "value": "mercedes-benz",
+      "__typename": "AdvertSearchFilterAppliedValue"
+    },
+    {
+      "name": "filter_enum_damaged",
+      "value": "0",
+      "__typename": "AdvertSearchFilterAppliedValue"
+    },
+    {
+      "name": "q",
+      "value": "actros",
+      "__typename": "AdvertSearchFilterAppliedValue"
+    },
+    {
+      "name": "subcategory_id",
+      "value": "81",
+      "__typename": "AdvertSearchFilterAppliedValue"
+    },
+    {
+      "name": "order",
+      "value": "created_at:desc",
+      "__typename": "AdvertSearchFilterAppliedValue"
+    },
+    {
+      "name": "category_id",
+      "value": "57",
+      "__typename": "AdvertSearchFilterAppliedValue"
+    },
+    {
+      "name": "filter_float_year:from",
+      "value": "2014",
+      "__typename": "AdvertSearchFilterAppliedValue"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "label": "Strona główna",
+      "url": "https://www.otomoto.pl",
+      "__typename": "Breadcrumb"
+    },
+    {
+      "label": "Ciężarowe",
+      "url": "https://www.otomoto.pl/ciezarowe/",
+      "__typename": "Breadcrumb"
+    },
+    {
+      "label": "Ciągnik siodłowy",
+      "url": "https://www.otomoto.pl/ciezarowe/uzytkowe/",
+      "__typename": "Breadcrumb"
+    },
+    {
+      "label": "Mercedes-Benz",
+      "url": "https://www.otomoto.pl/ciezarowe/uzytkowe/mercedes-benz/",
+      "__typename": "Breadcrumb"
+    }
+  ],
+  "pageInfo": { "pageSize": 32, "currentOffset": 0, "__typename": "Pager" },
+  "facets": [
+    {
+      "options": [
+        {
+          "label": "new",
+          "url": "https://www.otomoto.pl/ciezarowe/uzytkowe/nowe/mercedes-benz/od-2014/q-actros/?search%5Bfilter_enum_damaged%5D=0&search%5Border%5D=created_at%3Adesc",
+          "count": 2,
+          "__typename": "FacetOption"
+        },
+        {
+          "label": "used",
+          "url": "https://www.otomoto.pl/ciezarowe/uzytkowe/uzywane/mercedes-benz/od-2014/q-actros/?search%5Bfilter_enum_damaged%5D=0&search%5Border%5D=created_at%3Adesc",
+          "count": 452,
+          "__typename": "FacetOption"
+        },
+        {
+          "label": "total",
+          "url": "https://www.otomoto.pl/ciezarowe/uzytkowe/mercedes-benz/od-2014/q-actros/?search%5Bfilter_enum_damaged%5D=0&search%5Border%5D=created_at%3Adesc",
+          "count": 454,
+          "__typename": "FacetOption"
+        }
+      ],
+      "__typename": "Facet"
+    }
+  ],
+  "latestAdId": "6109721904",
+  "edges": [
+    {
+      "vas": {
+        "isHighlighted": false,
+        "isPromoted": true,
+        "bumpDate": "2023-04-23 13:59:00",
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6108922109",
+        "title": "Mercedes-Benz ACTROS 2645 LS",
+        "createdAt": "2023-03-30 13:59:24",
+        "shortDescription": "Zespół napędowy 44T-80T * 6x4 * 2645 *",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-2645-ls-zespol-napedowy-44t-80t-6x4-2645-ID6FqpHL.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Emilianów", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Mazowieckie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InExNmZxb2oxcjd3Zy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.AtvQQjZiGZBcvQaHxaSzjFRh0pCVdIlwQaEOpge6_AY/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InExNmZxb2oxcjd3Zy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.AtvQQjZiGZBcvQaHxaSzjFRh0pCVdIlwQaEOpge6_AY/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 131608,
+            "currencyCode": "EUR",
+            "__typename": "Money"
+          },
+          "badges": ["INCLUDE_VAT"],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2017 ",
+            "label": "Rok produkcji",
+            "value": "2017",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "81 000 km",
+            "label": "Przebieg",
+            "value": "81000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "12 809 cm3",
+            "label": "Pojemność skokowa",
+            "value": "12809",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "14108641",
+          "name": "DAIMLER TRUCK RETAIL POLSKA",
+          "websiteUrl": "https://daimlertruckretail.otomoto.pl",
+          "logo": {
+            "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImU2cTh1NjlrYW5iZzMtT1RPTU9UT1BMIn0.sQ4fmSNDVDt75nSC0eOlL38GafyQO9G4JyBlm2Ebypw/image;s=140x24",
+            "__typename": "Image"
+          },
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": {
+          "package": {
+            "id": "25",
+            "name": "Biznes Pro Plus (Mar.2023)",
+            "__typename": "SellerPackage"
+          },
+          "services": [
+            {
+              "code": "financing",
+              "label": "Usługi finansowe",
+              "__typename": "DealerServiceOption"
+            },
+            {
+              "code": "repair",
+              "label": "Naprawa samochodów",
+              "__typename": "DealerServiceOption"
+            },
+            {
+              "code": "damage-evaluation",
+              "label": "Usługi ubezpieczeniowe",
+              "__typename": "DealerServiceOption"
+            },
+            {
+              "code": "fast-repair",
+              "label": "Szybka naprawa",
+              "__typename": "DealerServiceOption"
+            }
+          ],
+          "photos": {
+            "nodes": [
+              {
+                "url": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InExNmZxb2oxcjd3Zy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.AtvQQjZiGZBcvQaHxaSzjFRh0pCVdIlwQaEOpge6_AY/image;s=644x461",
+                "__typename": "Image"
+              },
+              {
+                "url": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImVvMm4zanRnYjc2bDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.XYVD6CdxWSxAS-wp0gV2hgAxRHRynXaNIGdb2DKatGs/image;s=644x461",
+                "__typename": "Image"
+              },
+              {
+                "url": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imhib3lkMmtmZ3htOS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.16LsQmG_vzXarXnJEI10e_vGvTUyhDQJjGXwkAyhko8/image;s=644x461",
+                "__typename": "Image"
+              },
+              {
+                "url": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQyY295MXVlcGpzbDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.RDePEOBvZBwrxQ4dbo-Uyhdsp8DnuBtvobRyavkrGT4/image;s=644x461",
+                "__typename": "Image"
+              },
+              {
+                "url": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im1vaDRwZWQ3OTQ4ODItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.GFZQptdMK_PDxHye3wJ2aHUvJ3cjDI8YSlzTfPiaQlU/image;s=644x461",
+                "__typename": "Image"
+              }
+            ],
+            "totalCount": 5,
+            "__typename": "PhotosCollection"
+          },
+          "__typename": "AdvertDealer4thPackage"
+        },
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": false,
+        "isPromoted": true,
+        "bumpDate": "2023-04-15 20:35:00",
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6094303820",
+        "title": "Mercedes-Benz ACTROS 1845 2014/15_EURO 6_SERWISOWANY_ZADBANY",
+        "createdAt": "2023-04-22 21:07:37",
+        "shortDescription": "",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-1845-2014-15-euro-6-serwisowany-zadbany-ID6Er4OU.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Żygląd", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Kujawsko-pomorskie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijk5c2ZhYmtsMmdnOTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.4XBu1S8z2gBabH37gretpaB8FgI9UYKE4iz4uzNkJa0/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijk5c2ZhYmtsMmdnOTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.4XBu1S8z2gBabH37gretpaB8FgI9UYKE4iz4uzNkJa0/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 99900,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": [],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2014 ",
+            "label": "Rok produkcji",
+            "value": "2014",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "1 050 000 km",
+            "label": "Przebieg",
+            "value": "1050000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "12 809 cm3",
+            "label": "Pojemność skokowa",
+            "value": "12809",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "125780",
+          "name": "SEMITRAILER Marcin Zieliński",
+          "websiteUrl": "https://semitrailer.otomoto.pl",
+          "logo": {
+            "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjlqcXR5djNrcXVtMy1PVE9NT1RPUEwifQ.FH3iU4Cx6UzeEXn2Z6Ficdyxj_7zGzw6x_KNJfPJxMk/image;s=140x24",
+            "__typename": "Image"
+          },
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": false,
+        "isPromoted": true,
+        "bumpDate": "2023-04-22 20:00:48",
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6108619717",
+        "title": "Mercedes-Benz ACTROS",
+        "createdAt": "2023-04-21 20:00:47",
+        "shortDescription": "2018 rok pierw.rej. / MegaSpace / stan idealny / wyjątkowe wyposażenie",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-2018-rok-pierw-rej-megaspace-stan-idealny-wyjatkowe-wyposazenie-ID6Fp92t.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": {
+            "name": "Góra Kalwaria",
+            "__typename": "AdministrativeLevel"
+          },
+          "region": {
+            "name": "Mazowieckie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IngyNzZtY2t1YnF4ZzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.Tu10ajK9WCJtSZ-QxD8ywGL8DNKG4udyLmDLuAzLkZY/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IngyNzZtY2t1YnF4ZzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.Tu10ajK9WCJtSZ-QxD8ywGL8DNKG4udyLmDLuAzLkZY/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 63960,
+            "currencyCode": "EUR",
+            "__typename": "Money"
+          },
+          "badges": ["INCLUDE_VAT"],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2017 ",
+            "label": "Rok produkcji",
+            "value": "2017",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "478 554 km",
+            "label": "Przebieg",
+            "value": "478554",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "12 809 cm3",
+            "label": "Pojemność skokowa",
+            "value": "12809",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "14196239",
+          "name": "Reforma",
+          "websiteUrl": "https://reforma.otomoto.pl",
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": false,
+        "isPromoted": true,
+        "bumpDate": null,
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6109715205",
+        "title": "Mercedes-Benz Actros 1845 Super Stan /ACC /Klimatyzacja Postojowa",
+        "createdAt": "2023-04-22 17:48:27",
+        "shortDescription": "Xenon Pierwszy Właściciel Niemcy Euro 6",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-1845-super-stan-acc-klimatyzacja-postojowa-xenon-pierwszy-wlasciciel-niemcy-euro-6-ID6FtK1D.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Kowala", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Mazowieckie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjV3c2o2NzRqZnpvZC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.619UhmCi1LJhWgBZuVyPQlrFBtpwsJHHpVvVqowm8Zs/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjV3c2o2NzRqZnpvZC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.619UhmCi1LJhWgBZuVyPQlrFBtpwsJHHpVvVqowm8Zs/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 169000,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": [],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2017 ",
+            "label": "Rok produkcji",
+            "value": "2017",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "690 000 km",
+            "label": "Przebieg",
+            "value": "690000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "12 809 cm3",
+            "label": "Pojemność skokowa",
+            "value": "12809",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "13042651",
+          "name": "FS POL Sp. z o.o.",
+          "websiteUrl": "https://fspol.otomoto.pl",
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": {
+          "package": {
+            "id": "25",
+            "name": "Biznes Pro Plus (Mar.2023)",
+            "__typename": "SellerPackage"
+          },
+          "services": [],
+          "photos": {
+            "nodes": [
+              {
+                "url": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjV3c2o2NzRqZnpvZC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.619UhmCi1LJhWgBZuVyPQlrFBtpwsJHHpVvVqowm8Zs/image;s=644x461",
+                "__typename": "Image"
+              },
+              {
+                "url": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im02Y3ZtaHFja3ppNC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.LZVHZcX-cJ81Ji9f0h0cqLIod0xTagrQvQgtZEWsHA0/image;s=644x461",
+                "__typename": "Image"
+              },
+              {
+                "url": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjRucmQ3ZngwOGY3ZjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.v4EQBziNkSzKyrbOJ6_YC5zqLDthZxBsMBAbgiLWt6A/image;s=644x461",
+                "__typename": "Image"
+              },
+              {
+                "url": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InNlbzN2czY3bnV2djMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.20F4mZyqKUJnrcbUcKBuQFG3YkFl9xfDjFya3K37pdg/image;s=644x461",
+                "__typename": "Image"
+              },
+              {
+                "url": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImdldW9vaDN0bHlrYzMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.bC8XidrHK-4g61DkStzvwGwFFh4tPxQNd1B22tUXpmU/image;s=644x461",
+                "__typename": "Image"
+              }
+            ],
+            "totalCount": 5,
+            "__typename": "PhotosCollection"
+          },
+          "__typename": "AdvertDealer4thPackage"
+        },
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": true,
+        "isPromoted": true,
+        "bumpDate": "2023-04-10 15:55:00",
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6108545516",
+        "title": "Mercedes-Benz ACTROS",
+        "createdAt": "2023-04-22 09:07:00",
+        "shortDescription": "+375292400077 WhatsApp",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-375292400077-whatsapp-ID6FoPJG.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Białystok", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Podlaskie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im4zaWs1YzVyMDc0YjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.muy-DxkF4hx_YKaCFZEnVq-mrphcaho46CVNI-neA3g/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im4zaWs1YzVyMDc0YjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.muy-DxkF4hx_YKaCFZEnVq-mrphcaho46CVNI-neA3g/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 153000,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": [],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2016 ",
+            "label": "Rok produkcji",
+            "value": "2016",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "650 000 km",
+            "label": "Przebieg",
+            "value": "650000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "13443098",
+          "name": null,
+          "websiteUrl": null,
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": true,
+        "isPromoted": true,
+        "bumpDate": "2023-04-06 08:36:00",
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6108379825",
+        "title": "Mercedes-Benz Actros",
+        "createdAt": "2023-04-22 09:06:37",
+        "shortDescription": "+375292400077 WhatsApp",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-375292400077-whatsapp-ID6Fo8Df.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Białystok", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Podlaskie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imcxa3l2MTd5azJtODEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.iid46MwuI8KInrgzOHBp2Qf1SNlwvryyU7Iw43C6ntU/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imcxa3l2MTd5azJtODEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.iid46MwuI8KInrgzOHBp2Qf1SNlwvryyU7Iw43C6ntU/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 29500,
+            "currencyCode": "EUR",
+            "__typename": "Money"
+          },
+          "badges": [],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2015 ",
+            "label": "Rok produkcji",
+            "value": "2015",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "740 000 km",
+            "label": "Przebieg",
+            "value": "740000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "13443098",
+          "name": null,
+          "websiteUrl": null,
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": true,
+        "isPromoted": true,
+        "bumpDate": "2023-04-02 14:10:00",
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6108099333",
+        "title": "Mercedes-Benz ACTROS 1845",
+        "createdAt": "2023-04-22 09:04:30",
+        "shortDescription": "+375292400077 WhatsApp",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-1845-375292400077-whatsapp-ID6FmXFb.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Białystok", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Podlaskie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImQwdnc1bzlwdmRqazMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.SlGHo6CX6MYdHxRPGmaR6FzYkzD292z_ZsXj6rOdkfI/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImQwdnc1bzlwdmRqazMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.SlGHo6CX6MYdHxRPGmaR6FzYkzD292z_ZsXj6rOdkfI/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 36500,
+            "currencyCode": "EUR",
+            "__typename": "Money"
+          },
+          "badges": [],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2017 ",
+            "label": "Rok produkcji",
+            "value": "2017",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "747 000 km",
+            "label": "Przebieg",
+            "value": "747000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "12 000 cm3",
+            "label": "Pojemność skokowa",
+            "value": "12000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "13443098",
+          "name": null,
+          "websiteUrl": null,
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": true,
+        "isPromoted": true,
+        "bumpDate": "2023-04-16 06:27:00",
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6107377052",
+        "title": "Mercedes-Benz Actros 1848 Giga Space bez retardera",
+        "createdAt": "2023-04-22 07:23:36",
+        "shortDescription": "Od pierwszego właściciela serwis ASO MB",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-1848-giga-space-bez-retardera-od-pierwszego-wlasciciela-serwis-aso-mb-ID6FjWLu.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Myszków", "__typename": "AdministrativeLevel" },
+          "region": { "name": "Śląskie", "__typename": "AdministrativeLevel" },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlmYWVoaWtmdjBldDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.6sD5oF2-fWEUSOw1ZGXj45EcJEVUTkHyl_XiwV3Dwf8/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImlmYWVoaWtmdjBldDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.6sD5oF2-fWEUSOw1ZGXj45EcJEVUTkHyl_XiwV3Dwf8/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 282000,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": [],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2018 ",
+            "label": "Rok produkcji",
+            "value": "2018",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "481 000 km",
+            "label": "Przebieg",
+            "value": "481000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "13 000 cm3",
+            "label": "Pojemność skokowa",
+            "value": "13000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "4552819",
+          "name": null,
+          "websiteUrl": null,
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": false,
+        "isPromoted": true,
+        "bumpDate": "2023-04-21 21:28:00",
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6103061672",
+        "title": "Mercedes-Benz ACTROS -MP4-1843-430km-BIG-SPACE-AUTOMAT-EURO 6",
+        "createdAt": "2023-04-01 21:28:18",
+        "shortDescription": "Salon Polska I Właściciel Serwisowany Bezwypadkowy VF23% Pewny Sprzęt",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-mp4-1843-430km-big-space-automat-euro-6-salon-polska-i-wlasciciel-serwisowany-bezwypadkowy-vf23-pewny-sprzet-ID6F1P8A.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Lipno", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Kujawsko-pomorskie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImExZjQxNHB6dXdraDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.Jx5f-NdEQeVi8bjyYcCDyJdV_0F0iQufyquIqiSaDyg/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImExZjQxNHB6dXdraDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.Jx5f-NdEQeVi8bjyYcCDyJdV_0F0iQufyquIqiSaDyg/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 170970,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": ["INCLUDE_VAT"],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2015 ",
+            "label": "Rok produkcji",
+            "value": "2015",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "598 000 km",
+            "label": "Przebieg",
+            "value": "598000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "10 677 cm3",
+            "label": "Pojemność skokowa",
+            "value": "10677",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "1604033",
+          "name": "F.H.U.ŻUCHOWSKI-AUTO",
+          "websiteUrl": "https://zuchowski-auto.otomoto.pl",
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": false,
+        "isPromoted": true,
+        "bumpDate": null,
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6109691600",
+        "title": "Mercedes-Benz ACTROS 1845 // PEŁNY ADR //",
+        "createdAt": "2023-04-21 18:26:33",
+        "shortDescription": "BIGSPACE// 15-16R // PEŁNY ADR !! // STANDARD // Opony 99%",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-1845-pelny-adr-bigspace-15-16r-pelny-adr-standard-opony-99-ID6FtDSU.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Daleszyce", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Świętokrzyskie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRpMnVodmYwaTVwcDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.5Z68hEidOZW4xa86-8ArzOO5WQn5W88b3bXWgiO8bLY/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRpMnVodmYwaTVwcDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.5Z68hEidOZW4xa86-8ArzOO5WQn5W88b3bXWgiO8bLY/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 139900,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": [],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2015 ",
+            "label": "Rok produkcji",
+            "value": "2015",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "640 000 km",
+            "label": "Przebieg",
+            "value": "640000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "12 809 cm3",
+            "label": "Pojemność skokowa",
+            "value": "12809",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "12542161",
+          "name": "Kor-Trans Kornel Łosak",
+          "websiteUrl": "https://kortrans.otomoto.pl",
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": false,
+        "isPromoted": true,
+        "bumpDate": "2023-04-21 17:04:00",
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6109032546",
+        "title": "Mercedes-Benz ACTROS",
+        "createdAt": "2023-04-03 17:05:34",
+        "shortDescription": "ACTROS 1842 HYDRAULIKA, STANDARD, Przystawka do wywrotu",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-actros-1842-hydraulika-standard-przystawka-do-wywrotu-ID6FqSr0.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Płock", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Mazowieckie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImphNGZnd3FteTJudjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.pbWCiVBnJSb0hs5R0_4L9AIk1olK2WgXCdvSbNmj9Tc/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImphNGZnd3FteTJudjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.pbWCiVBnJSb0hs5R0_4L9AIk1olK2WgXCdvSbNmj9Tc/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 109900,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": [],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2014 ",
+            "label": "Rok produkcji",
+            "value": "2014",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "803 369 km",
+            "label": "Przebieg",
+            "value": "803369",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "12 809 cm3",
+            "label": "Pojemność skokowa",
+            "value": "12809",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "1041696",
+          "name": null,
+          "websiteUrl": null,
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": false,
+        "isPromoted": true,
+        "bumpDate": "2023-04-21 16:35:00",
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6106499981",
+        "title": "Mercedes-Benz Actros MP4 / Klima Postojowa / Xenon / ACC / Poduszki Kabina / Dostępne 3 szt",
+        "createdAt": "2023-03-28 16:35:24",
+        "shortDescription": "Actros MP4 / Klima Postojowa / Xenon / ACC / Poduszki Kabina",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-mp4-klima-postojowa-xenon-acc-poduszki-kabina-dostepne-3-szt-actros-mp4-klima-postojowa-xenon-acc-poduszki-kabina-ID6FgfBb.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": {
+            "name": "Stoczek Łukowski",
+            "__typename": "AdministrativeLevel"
+          },
+          "region": {
+            "name": "Lubelskie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZ2MTI0OWJrMnM3YTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.GJPm28X9SqkBSbv8uXVYfmmvdxAgCR8KUo1qoVfPW68/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZ2MTI0OWJrMnM3YTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.GJPm28X9SqkBSbv8uXVYfmmvdxAgCR8KUo1qoVfPW68/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 314000,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": [],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2018 ",
+            "label": "Rok produkcji",
+            "value": "2018",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "424 000 km",
+            "label": "Przebieg",
+            "value": "424000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "12 800 cm3",
+            "label": "Pojemność skokowa",
+            "value": "12800",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "9895312",
+          "name": "Truck4You",
+          "websiteUrl": "https://truck4you.otomoto.pl",
+          "logo": {
+            "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU3bjRycjdycnA3OTItT1RPTU9UT1BMIn0.LNW-592gaGxA7qbK329fygkK4yohoVmPQ4D3vhhXPT8/image;s=140x24",
+            "__typename": "Image"
+          },
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": false,
+        "isPromoted": true,
+        "bumpDate": null,
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6109680223",
+        "title": "Mercedes-Benz ACTROS 1845",
+        "createdAt": "2023-04-21 13:42:39",
+        "shortDescription": "salon PL, serwis ASO",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-1845-salon-pl-serwis-aso-ID6FtAWp.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Wrocław", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Dolnośląskie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijlxcm83MXBkZ3VyYTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.iJJFlTAJ0hQY_5bb4pLFv_aRBXBKY61tVW97It6JnIs/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijlxcm83MXBkZ3VyYTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.iJJFlTAJ0hQY_5bb4pLFv_aRBXBKY61tVW97It6JnIs/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 127500,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": [],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2016 ",
+            "label": "Rok produkcji",
+            "value": "2016",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "823 044 km",
+            "label": "Przebieg",
+            "value": "823044",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "12 809 cm3",
+            "label": "Pojemność skokowa",
+            "value": "12809",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "11591713",
+          "name": "Iveco Poland Sp. z o.o",
+          "websiteUrl": "https://IVECO-WROClAW-PL.otomoto.pl",
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": true,
+        "isPromoted": true,
+        "bumpDate": null,
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6109678331",
+        "title": "Mercedes-Benz 1845",
+        "createdAt": "2023-04-21 12:55:43",
+        "shortDescription": "Mercedes-Benz Actros 1845 BigSpace",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-1845-mercedes-benz-actros-1845-bigspace-ID6FtAqT.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Łapy", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Podlaskie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Implamp6aWZkY250NjItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.VR0D4bi7XMFPDNiA5_N276drWC-30Zfj-BIYP9asSmg/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Implamp6aWZkY250NjItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.VR0D4bi7XMFPDNiA5_N276drWC-30Zfj-BIYP9asSmg/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 36900,
+            "currencyCode": "EUR",
+            "__typename": "Money"
+          },
+          "badges": [],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2017 ",
+            "label": "Rok produkcji",
+            "value": "2017",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "749 000 km",
+            "label": "Przebieg",
+            "value": "749000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "5837251",
+          "name": null,
+          "websiteUrl": null,
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": true,
+        "isPromoted": true,
+        "bumpDate": "2023-04-10 09:52:00",
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6107165206",
+        "title": "Mercedes-Benz Actros 1845",
+        "createdAt": "2023-04-21 11:52:58",
+        "shortDescription": "Użytkował jeden kierowca! Zadbany 138k PLN netto. Możliwy export",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-1845-uzytkowal-jeden-kierowca-zadbany-138k-pln-netto-mozliwy-export-ID6Fj2EC.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Besko", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Podkarpackie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imozc29nZWM3ZGl3MTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.3rdoqFqqBCxgp6fN0bcBv2ZYTMwROLjmmGXVYqMOL0g/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Imozc29nZWM3ZGl3MTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.3rdoqFqqBCxgp6fN0bcBv2ZYTMwROLjmmGXVYqMOL0g/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 137999,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": ["INCLUDE_VAT"],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2016 ",
+            "label": "Rok produkcji",
+            "value": "2016",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "845 000 km",
+            "label": "Przebieg",
+            "value": "845000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "12 809 cm3",
+            "label": "Pojemność skokowa",
+            "value": "12809",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "5733145",
+          "name": null,
+          "websiteUrl": null,
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": false,
+        "isPromoted": true,
+        "bumpDate": null,
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6109672228",
+        "title": "Mercedes-Benz Actros",
+        "createdAt": "2023-04-21 11:19:36",
+        "shortDescription": "Mercedes-Benz ACTROS 1845/EURO 6/ HYDRAULIKA",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-mercedes-benz-actros-1845-euro-6-hydraulika-ID6FtyQs.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Warszawa", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Mazowieckie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijlwb2ZiNmFpa3dhOTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.HjQE0CtknFywLT8kOEHnT8iR1m7x3EEQ7IYfRLS7i2A/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Ijlwb2ZiNmFpa3dhOTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.HjQE0CtknFywLT8kOEHnT8iR1m7x3EEQ7IYfRLS7i2A/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 282900,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": ["INCLUDE_VAT"],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2017 ",
+            "label": "Rok produkcji",
+            "value": "2017",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "430 894 km",
+            "label": "Przebieg",
+            "value": "430894",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "12 809 cm3",
+            "label": "Pojemność skokowa",
+            "value": "12809",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "3426109",
+          "name": "99Select",
+          "websiteUrl": "https://99select.otomoto.pl",
+          "logo": {
+            "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFsOGxqaWprM2NzNS1PVE9NT1RPUEwifQ.tUSjN65bHkPv0LPGG2l2TOGjKm9w4IhmqW9PnVoqOAg/image;s=140x24",
+            "__typename": "Image"
+          },
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": true,
+        "isPromoted": true,
+        "bumpDate": null,
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6109659974",
+        "title": "Mercedes-Benz Actros 1848",
+        "createdAt": "2023-04-20 22:54:01",
+        "shortDescription": "Xenon, aktywny tempomat",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-1848-xenon-aktywny-tempomat-ID6FtwEO.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Modlniczka", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Małopolskie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InUwam9xam56Z2p1ZzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.ESZTuFautUOBXy7Oqfsy9eAp_ERSFd-eQWSgNQeW23M/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InUwam9xam56Z2p1ZzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.ESZTuFautUOBXy7Oqfsy9eAp_ERSFd-eQWSgNQeW23M/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 135268,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": ["INCLUDE_VAT"],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2014 ",
+            "label": "Rok produkcji",
+            "value": "2014",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "860 000 km",
+            "label": "Przebieg",
+            "value": "860000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "3720069",
+          "name": null,
+          "websiteUrl": null,
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": true,
+        "isPromoted": true,
+        "bumpDate": "2023-03-21 13:59:00",
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6100503828",
+        "title": "Mercedes-Benz ACTROS MP4",
+        "createdAt": "2023-04-20 14:53:27",
+        "shortDescription": "ACTROS MP4 450 z własnej floty",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-mp4-actros-mp4-450-z-wlasnej-floty-ID6ER5J2.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Bielawa", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Dolnośląskie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRidG9nZmZuN2ZpMTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.0OnIKhrHk4hzYaM94NYIGGgZF1crhocnIv0ms9LaslY/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRidG9nZmZuN2ZpMTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.0OnIKhrHk4hzYaM94NYIGGgZF1crhocnIv0ms9LaslY/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 99000,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": [],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2014 ",
+            "label": "Rok produkcji",
+            "value": "2014",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "725 000 km",
+            "label": "Przebieg",
+            "value": "725000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "13 000 cm3",
+            "label": "Pojemność skokowa",
+            "value": "13000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "5291475",
+          "name": null,
+          "websiteUrl": null,
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": false,
+        "isPromoted": true,
+        "bumpDate": "2023-04-20 12:34:00",
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6108793617",
+        "title": "Mercedes-Benz Actros 1845 LS",
+        "createdAt": "2023-03-27 12:34:22",
+        "shortDescription": "1 właściciel/ASO/BIG Space/",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-1845-ls-1-wlasciciel-aso-big-space-ID6FpShj.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Nieporaz", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Małopolskie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNiZ2F6a2U2eDV5bi1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1B_ZJ_9bq49xgReZRDROVPemryWc3Y1KRnQk2aPe0_A/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjNiZ2F6a2U2eDV5bi1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1B_ZJ_9bq49xgReZRDROVPemryWc3Y1KRnQk2aPe0_A/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 81180,
+            "currencyCode": "EUR",
+            "__typename": "Money"
+          },
+          "badges": ["INCLUDE_VAT"],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2019 ",
+            "label": "Rok produkcji",
+            "value": "2019",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "369 000 km",
+            "label": "Przebieg",
+            "value": "369000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "12 800 cm3",
+            "label": "Pojemność skokowa",
+            "value": "12800",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "12119881",
+          "name": "Truck4You",
+          "websiteUrl": "https://krzysztofek.otomoto.pl",
+          "logo": {
+            "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRxbmYwemNvendnbjMtT1RPTU9UT1BMIn0.p0Y3Rd5h4vVyHwfIs1WiEGnAig_uYY6oD4tlNZkUZvc/image;s=140x24",
+            "__typename": "Image"
+          },
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": true,
+        "isPromoted": true,
+        "bumpDate": null,
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6109631462",
+        "title": "Mercedes-Benz ACTROS 450 MP4 / MEGA",
+        "createdAt": "2023-04-20 06:48:24",
+        "shortDescription": "Bardzo dobry stan!!!",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-450-mp4-mega-bardzo-dobry-stan-ID6FtoeV.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Wołomin", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Mazowieckie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJueDB5ZnBpYmlydS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.CVhGgHejfOBmgQMcprHb6sfNGDfy7rFBb3xKSOakLcs/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImJueDB5ZnBpYmlydS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.CVhGgHejfOBmgQMcprHb6sfNGDfy7rFBb3xKSOakLcs/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 110000,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": [],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2014 ",
+            "label": "Rok produkcji",
+            "value": "2014",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "706 300 km",
+            "label": "Przebieg",
+            "value": "706300",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "13248028",
+          "name": null,
+          "websiteUrl": null,
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": true,
+        "isPromoted": true,
+        "bumpDate": null,
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6109631413",
+        "title": "Mercedes-Benz ACTROS 480 MP4 / 2019",
+        "createdAt": "2023-04-20 06:28:41",
+        "shortDescription": "IDEALNY STAN, Oryginalny przebieg!!!",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-480-mp4-2019-idealny-stan-oryginalny-przebieg-ID6Ftoe9.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Wołomin", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Mazowieckie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJ2OHZsd2tod256aS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.bpHtYcBZxP9pt9AY1EffOUmGknFgaGTt8WIv2wm_DKo/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InJ2OHZsd2tod256aS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.bpHtYcBZxP9pt9AY1EffOUmGknFgaGTt8WIv2wm_DKo/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 350000,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": [],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2019 ",
+            "label": "Rok produkcji",
+            "value": "2019",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "243 000 km",
+            "label": "Przebieg",
+            "value": "243000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "13248028",
+          "name": null,
+          "websiteUrl": null,
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": false,
+        "isPromoted": true,
+        "bumpDate": "2023-04-20 00:46:00",
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6104951716",
+        "title": "Mercedes-Benz Actros MP4 / Salonka / Klima Postojowa / Xenon / ACC / Giga Space",
+        "createdAt": "2023-04-14 00:46:53",
+        "shortDescription": "Actros MP4 / Salonka / Klima Postojowa / Xenon / ACC / Giga Space",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-mp4-salonka-klima-postojowa-xenon-acc-giga-space-actros-mp4-salonka-klima-postojowa-xenon-acc-giga-space-ID6F9KPa.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": {
+            "name": "Stoczek Łukowski",
+            "__typename": "AdministrativeLevel"
+          },
+          "region": {
+            "name": "Lubelskie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjkzaW01ZXpzczUwMzMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.DtHdXIeuBUIoG9e9Tt0N73fGhcS81Vwb6iUeV2F_kO8/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjkzaW01ZXpzczUwMzMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.DtHdXIeuBUIoG9e9Tt0N73fGhcS81Vwb6iUeV2F_kO8/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 318000,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": [],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2018 ",
+            "label": "Rok produkcji",
+            "value": "2018",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "450 000 km",
+            "label": "Przebieg",
+            "value": "450000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "12 800 cm3",
+            "label": "Pojemność skokowa",
+            "value": "12800",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "9895312",
+          "name": "Truck4You",
+          "websiteUrl": "https://truck4you.otomoto.pl",
+          "logo": {
+            "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU3bjRycjdycnA3OTItT1RPTU9UT1BMIn0.LNW-592gaGxA7qbK329fygkK4yohoVmPQ4D3vhhXPT8/image;s=140x24",
+            "__typename": "Image"
+          },
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": true,
+        "isPromoted": true,
+        "bumpDate": "2023-04-13 09:18:00",
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6107162610",
+        "title": "Mercedes-Benz ACTROS",
+        "createdAt": "2023-04-19 10:29:22",
+        "shortDescription": "Cesja Leasingu, ADR AT.",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-cesja-leasingu-adr-at-ID6Fj1YK.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Białystok", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Podlaskie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5qd2VleWR5amtwbDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.xtyZqUxk3Sja9b0m1jfDriG2mjlBCK2i422FQQPSas8/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im5qd2VleWR5amtwbDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.xtyZqUxk3Sja9b0m1jfDriG2mjlBCK2i422FQQPSas8/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 86690,
+            "currencyCode": "EUR",
+            "__typename": "Money"
+          },
+          "badges": ["INCLUDE_VAT"],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2021 ",
+            "label": "Rok produkcji",
+            "value": "2021",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "220 000 km",
+            "label": "Przebieg",
+            "value": "220000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "12 809 cm3",
+            "label": "Pojemność skokowa",
+            "value": "12809",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "8892537",
+          "name": null,
+          "websiteUrl": null,
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": true,
+        "isPromoted": true,
+        "bumpDate": "2023-03-16 19:15:00",
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6106475723",
+        "title": "Mercedes-Benz Actros",
+        "createdAt": "2023-04-18 20:35:56",
+        "shortDescription": "MERCEDES-BENZ Actros 1845, 2018 rok MEGA",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-mercedes-benz-actros-1845-2018-rok-mega-ID6Fg9hW.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Stawiszyn", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Wielkopolskie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjN1djllMWY2aDliYTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.FQ3fqj9cAc0hsfzG9wecV7N4E53VGscTA1suQdZgKdE/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjN1djllMWY2aDliYTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.FQ3fqj9cAc0hsfzG9wecV7N4E53VGscTA1suQdZgKdE/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 276750,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": ["INCLUDE_VAT"],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2018 ",
+            "label": "Rok produkcji",
+            "value": "2018",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "760 000 km",
+            "label": "Przebieg",
+            "value": "760000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "12 809 cm3",
+            "label": "Pojemność skokowa",
+            "value": "12809",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "14052673",
+          "name": null,
+          "websiteUrl": null,
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": false,
+        "isPromoted": true,
+        "bumpDate": "2023-04-18 19:36:00",
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6109373911",
+        "title": "Mercedes-Benz Actros 1845 GIGA / Klima postojowa / Salonka / Xenon / ACC / Full Opcja",
+        "createdAt": "2023-04-12 19:36:33",
+        "shortDescription": "GIGA Space / Klima postojowa / Salonka / Xenon / ACC / Full Opcja",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-1845-giga-klima-postojowa-salonka-xenon-acc-full-opcja-giga-space-klima-postojowa-salonka-xenon-acc-full-opcja-ID6FsjeT.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": {
+            "name": "Stoczek Łukowski",
+            "__typename": "AdministrativeLevel"
+          },
+          "region": {
+            "name": "Lubelskie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9kMzZod3poc3VleTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.a5bsN5qQdw7VTyWHxRpLBvFItyTdnCBqQbt-4rrWHsc/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im9kMzZod3poc3VleTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.a5bsN5qQdw7VTyWHxRpLBvFItyTdnCBqQbt-4rrWHsc/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 235000,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": [],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2017 ",
+            "label": "Rok produkcji",
+            "value": "2017",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "607 000 km",
+            "label": "Przebieg",
+            "value": "607000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "12 800 cm3",
+            "label": "Pojemność skokowa",
+            "value": "12800",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "9895312",
+          "name": "Truck4You",
+          "websiteUrl": "https://truck4you.otomoto.pl",
+          "logo": {
+            "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU3bjRycjdycnA3OTItT1RPTU9UT1BMIn0.LNW-592gaGxA7qbK329fygkK4yohoVmPQ4D3vhhXPT8/image;s=140x24",
+            "__typename": "Image"
+          },
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": false,
+        "isPromoted": true,
+        "bumpDate": "2023-04-18 15:15:00",
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6108953093",
+        "title": "Mercedes-Benz ACTROS 1845 LS Fabrycznie nowy!!!!",
+        "createdAt": "2023-03-31 15:15:42",
+        "shortDescription": "Mercedes ACTROS 1845 LS",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-1845-ls-fabrycznie-nowy-mercedes-actros-1845-ls-ID6FqxLw.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Kantowo", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Warmińsko-mazurskie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVrMHN6eXR3bGt2djItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.fXyPyYrJf5SCtS-R7duuwzlkMhiH04oyZPajKKv6oKc/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjVrMHN6eXR3bGt2djItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.fXyPyYrJf5SCtS-R7duuwzlkMhiH04oyZPajKKv6oKc/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 147600,
+            "currencyCode": "EUR",
+            "__typename": "Money"
+          },
+          "badges": ["INCLUDE_VAT"],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2023 ",
+            "label": "Rok produkcji",
+            "value": "2023",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "1 km",
+            "label": "Przebieg",
+            "value": "1",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "2944105",
+          "name": null,
+          "websiteUrl": null,
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": true,
+        "isPromoted": true,
+        "bumpDate": null,
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6109571354",
+        "title": "Mercedes-Benz ACTROS 1845 MEGA LOW DECK BIG SPACE",
+        "createdAt": "2023-04-18 12:18:37",
+        "shortDescription": "",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-1845-mega-low-deck-big-space-ID6Ft8Bs.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Daleszyce", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Świętokrzyskie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZreTUwMnk5NnZsYjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.dhMOBbU_Bhkja4Q5jOuMOsGJ030kbdzlwoLovXGSKiA/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjZreTUwMnk5NnZsYjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.dhMOBbU_Bhkja4Q5jOuMOsGJ030kbdzlwoLovXGSKiA/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 109900,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": [],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2014 ",
+            "label": "Rok produkcji",
+            "value": "2014",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "800 000 km",
+            "label": "Przebieg",
+            "value": "800000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "5128069",
+          "name": null,
+          "websiteUrl": null,
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": true,
+        "isPromoted": true,
+        "bumpDate": null,
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6109553695",
+        "title": "Mercedes-Benz Actros MP4",
+        "createdAt": "2023-04-17 20:42:46",
+        "shortDescription": "Mercedes Actros MP4 wydmuch, Euro 6",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-mp4-mercedes-actros-mp4-wydmuch-euro-6-ID6Ft40D.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Radom", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Mazowieckie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFpMXV6Z3ExaTc0ZTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.wWQRLGA6euDzpuKkJnzX_7Gw86gbVfaFTDKePgLk8io/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImFpMXV6Z3ExaTc0ZTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.wWQRLGA6euDzpuKkJnzX_7Gw86gbVfaFTDKePgLk8io/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 183270,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": ["INCLUDE_VAT"],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2015 ",
+            "label": "Rok produkcji",
+            "value": "2015",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "704 000 km",
+            "label": "Przebieg",
+            "value": "704000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "10 677 cm3",
+            "label": "Pojemność skokowa",
+            "value": "10677",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "7058840",
+          "name": null,
+          "websiteUrl": null,
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": false,
+        "isPromoted": true,
+        "bumpDate": null,
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6109513684",
+        "title": "Mercedes-Benz ACTROS",
+        "createdAt": "2023-04-17 13:16:49",
+        "shortDescription": "Mercedes Atros 1845 MP4 BIGSPACE STANDARD",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-mercedes-atros-1845-mp4-bigspace-standard-ID6FsTBi.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Będzin", "__typename": "AdministrativeLevel" },
+          "region": { "name": "Śląskie", "__typename": "AdministrativeLevel" },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRsZHJlZ3ZrYXFiNjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.3msQsNX3JaweSxANDo9YF3bwJ74brI_W9eH72-HymJc/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InRsZHJlZ3ZrYXFiNjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.3msQsNX3JaweSxANDo9YF3bwJ74brI_W9eH72-HymJc/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 166050,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": ["INCLUDE_VAT"],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2016 ",
+            "label": "Rok produkcji",
+            "value": "2016",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "870 000 km",
+            "label": "Przebieg",
+            "value": "870000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "12 809 cm3",
+            "label": "Pojemność skokowa",
+            "value": "12809",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "976732",
+          "name": null,
+          "websiteUrl": null,
+          "logo": null,
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": false,
+        "isPromoted": true,
+        "bumpDate": "2023-04-07 11:59:00",
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6107827853",
+        "title": "Mercedes-Benz Actros 1845 / Klima. Postojowa / Xenon / 390 tyś km !!!",
+        "createdAt": "2023-04-13 12:36:19",
+        "shortDescription": "Klimatyzacja Postojowa / Xenon / 390 tyś km !!!",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-1845-klima-postojowa-xenon-390-tys-km-klimatyzacja-postojowa-xenon-390-tys-km-ID6FlP2t.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": {
+            "name": "Stoczek Łukowski",
+            "__typename": "AdministrativeLevel"
+          },
+          "region": {
+            "name": "Lubelskie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVhaDY4aTJ6bGE0ajItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.f2rL2UdhoghR7-15bWbsvCp4NfiUfO8OWMK-uF0wf_4/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InVhaDY4aTJ6bGE0ajItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.f2rL2UdhoghR7-15bWbsvCp4NfiUfO8OWMK-uF0wf_4/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 277000,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": [],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2017 ",
+            "label": "Rok produkcji",
+            "value": "2017",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "394 000 km",
+            "label": "Przebieg",
+            "value": "394000",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "12 800 cm3",
+            "label": "Pojemność skokowa",
+            "value": "12800",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "9895312",
+          "name": "Truck4You",
+          "websiteUrl": "https://truck4you.otomoto.pl",
+          "logo": {
+            "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjU3bjRycjdycnA3OTItT1RPTU9UT1BMIn0.LNW-592gaGxA7qbK329fygkK4yohoVmPQ4D3vhhXPT8/image;s=140x24",
+            "__typename": "Image"
+          },
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": false,
+        "isPromoted": false,
+        "bumpDate": "2023-04-22 15:36:00",
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6103378680",
+        "title": "Mercedes-Benz Actros 1845 LS * Nowe Opony! *",
+        "createdAt": "2023-04-23 18:22:27",
+        "shortDescription": "* Klima postojowa * NAVI *",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-1845-ls-nowe-opony-klima-postojowa-navi-ID6F39BC.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Garwolin", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Mazowieckie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im11a2Q3eThoamhmaDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.kZliV6Y7ZpOgF0vURyF-hvORWOoA7lkuy_8aFPqlV8k/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6Im11a2Q3eThoamhmaDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.kZliV6Y7ZpOgF0vURyF-hvORWOoA7lkuy_8aFPqlV8k/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 298999,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": ["INCLUDE_VAT"],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2018 ",
+            "label": "Rok produkcji",
+            "value": "2018",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "457 657 km",
+            "label": "Przebieg",
+            "value": "457657",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "12 809 cm3",
+            "label": "Pojemność skokowa",
+            "value": "12809",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "1930184",
+          "name": "Sky Truck Polska Sp. z o.o.",
+          "websiteUrl": "https://skytruck.otomoto.pl",
+          "logo": {
+            "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQ4bW5hazJ0eXdzeDEtT1RPTU9UT1BMIn0.fQNy4ixGYuAmgDmqxaF3-SYmSsN_2hlLUY2SKUYZQ1I/image;s=140x24",
+            "__typename": "Image"
+          },
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    },
+    {
+      "vas": {
+        "isHighlighted": false,
+        "isPromoted": false,
+        "bumpDate": "2023-04-19 10:46:00",
+        "__typename": "AdvertListingVAS"
+      },
+      "node": {
+        "id": "6107827549",
+        "title": "Mercedes-Benz Actros 1845 LS * BigSpace* Zbiorniki 1300l *",
+        "createdAt": "2023-04-23 18:22:26",
+        "shortDescription": "* Salonka * Klima postojowa * Import DE * NAVI",
+        "url": "https://www.otomoto.pl/oferta/mercedes-benz-actros-1845-ls-bigspace-zbiorniki-1300l-salonka-klima-postojowa-import-de-navi-ID6FlOXz.html",
+        "badges": [],
+        "category": { "id": "81", "__typename": "Category" },
+        "location": {
+          "city": { "name": "Garwolin", "__typename": "AdministrativeLevel" },
+          "region": {
+            "name": "Mazowieckie",
+            "__typename": "AdministrativeLevel"
+          },
+          "__typename": "Location"
+        },
+        "thumbnail": {
+          "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImludnA1ZHpiejZmMy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gCMLmlTlxyp5NMji_MePW50MEhFYEWQyTmbl78l3D94/image;s=320x240",
+          "x2": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImludnA1ZHpiejZmMy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.gCMLmlTlxyp5NMji_MePW50MEhFYEWQyTmbl78l3D94/image;s=640x480",
+          "__typename": "Image"
+        },
+        "price": {
+          "amount": {
+            "units": 299000,
+            "currencyCode": "PLN",
+            "__typename": "Money"
+          },
+          "badges": [],
+          "grossPrice": null,
+          "netPrice": null,
+          "__typename": "Price"
+        },
+        "parameters": [
+          {
+            "key": "make",
+            "displayValue": "Mercedes-Benz",
+            "label": "Marka pojazdu",
+            "value": "mercedes-benz",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "year",
+            "displayValue": "2018 ",
+            "label": "Rok produkcji",
+            "value": "2018",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "mileage",
+            "displayValue": "554 705 km",
+            "label": "Przebieg",
+            "value": "554705",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "engine_capacity",
+            "displayValue": "12 809 cm3",
+            "label": "Pojemność skokowa",
+            "value": "12809",
+            "__typename": "AdvertParameter"
+          },
+          {
+            "key": "fuel_type",
+            "displayValue": "Diesel",
+            "label": "Rodzaj paliwa",
+            "value": "diesel",
+            "__typename": "AdvertParameter"
+          }
+        ],
+        "sellerLink": {
+          "id": "1930184",
+          "name": "Sky Truck Polska Sp. z o.o.",
+          "websiteUrl": "https://skytruck.otomoto.pl",
+          "logo": {
+            "x1": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InQ4bW5hazJ0eXdzeDEtT1RPTU9UT1BMIn0.fQNy4ixGYuAmgDmqxaF3-SYmSsN_2hlLUY2SKUYZQ1I/image;s=140x24",
+            "__typename": "Image"
+          },
+          "__typename": "AdvertSellerLink"
+        },
+        "brandProgram": {
+          "logo": null,
+          "searchUrl": null,
+          "name": null,
+          "__typename": "BrandProgram"
+        },
+        "dealer4thPackage": null,
+        "__typename": "Advert"
+      },
+      "__typename": "AdvertEdge"
+    }
+  ],
+  "sortOptions": [
+    {
+      "searchKey": "created_at:desc",
+      "label": "Wyróżnione",
+      "__typename": "SortOption"
+    },
+    {
+      "searchKey": "created_at_first:desc",
+      "label": "Najnowsze",
+      "__typename": "SortOption"
+    },
+    {
+      "searchKey": "filter_float_price:asc",
+      "label": "Cena: od najniższej",
+      "__typename": "SortOption"
+    },
+    {
+      "searchKey": "filter_float_price:desc",
+      "label": "Cena: od najwyższej",
+      "__typename": "SortOption"
+    },
+    {
+      "searchKey": "filter_float_mileage:asc",
+      "label": "Najniższy przebieg",
+      "__typename": "SortOption"
+    },
+    {
+      "searchKey": "filter_float_mileage:desc",
+      "label": "Najwyższy przebieg",
+      "__typename": "SortOption"
+    },
+    {
+      "searchKey": "filter_float_engine_power:asc",
+      "label": "Najniższa moc silnika",
+      "__typename": "SortOption"
+    },
+    {
+      "searchKey": "filter_float_engine_power:desc",
+      "label": "Najwyższa moc silnika",
+      "__typename": "SortOption"
+    }
+  ],
+  "__typename": "AdvertSearchOutput"
+}

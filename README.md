@@ -14,9 +14,13 @@ Second, run the development server:
 - [x] either puppeteer/playwright or request-promise for fetching ads Purpose:
 - [x] Add getNextPageUrl function to iterate over pages
   - [x] A function that returns url string for iterate over pages
-- [] Add addItems function that fetches item urls + item ids (unique ids that the portal uses) from list page
-- [x] Add getTotalAdsCount function - shows how many total ads exist for the provided initial url
-- [x] Add scrapeTruckItem function - that scrapes the actual ads and parses into the format: item id, title, price, registration date, production date, mileage, power
+- [x] Add addItems function that fetches item urls + item ids (unique ids that the portal uses) from list page
+- [-] Add getTotalAdsCount function - shows how many total ads exist for the provided initial url
+  - [x] Find total Truck items in initial page
+  - [] Get number advertisements present in the initial url
+- [-] Add scrapeTruckItem function - that scrapes the actual ads and parses into the format: item id, title, price, registration date, production date, mileage, power
+  - [] Code put in separate function
+  - [x] Code implemented
   - [x] Writing data in CSV file
 - [] BONUS: scraping via otomoto mobile app.
 
@@ -28,8 +32,7 @@ Second, run the development server:
 - Questions
 
   - For the bonus task, may I get additional time like a day?
-  - Do I need to add Command Line Arguments feature for the functions, "scrapeTruckItem" & "addItems"?
-
+  - How to have the code for scrapeTruckItem function as a separate function? IT gives me error whenever I do it.
 - Ideas for:
 
   - error catching/solving
@@ -51,6 +54,14 @@ I have experience using Selenium with Python.
 ### Other considerations?
 
 ```
-- getTotalAdsCount function
-  - I have been working with total ads for every page regardless. But since the requirements asked for the initial page only, I created a variable to save the value for the first url only and returning the value.
+- Conventions
+  - [] Make the comment for author And also add that in description
 ```
+
+## Resources
+
+- https://stackoverflow.com/questions/28652080/how-to-result-the-contents-of-a-javascript-variable-using-cheerio-jquery-like-s
+
+1.  [Get text in parent without children using cheerio](https://stackoverflow.com/questions/20832910/get-text-in-parent-without-children-using-cheerio)
+
+2.  [Remove Property from an Object](https://www.w3schools.com/howto/howto_js_remove_property_object.aspo)
