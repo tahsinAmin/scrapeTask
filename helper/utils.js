@@ -9,8 +9,8 @@
 const fs = require("fs");
 const { parse } = require("json2csv");
 
-const request2 = require("request-promise");
-const cheerio2 = require("cheerio");
+let request = require("request-promise");
+let cheerio = require("cheerio");
 
 let urlUpdated = false;
 
@@ -19,7 +19,7 @@ const utils = {};
 
 // Takes file path to write or append in CSV file
 utils.exportToCsvFile = (fPath, data) => {
-  if (fs.existsSync(fPath)) {
+  if (fs.existsSync(fPath)) { // [3]
     console.log("File exist");
     let csv = parse(data, { header: false });
     fs.appendFileSync(fPath, "\r\n");
@@ -65,57 +65,55 @@ utils.addItems = (edgesArray) => {
   return itemsData;
 };
 
-utils.ScrapeTruckItem = async (truckItems) => {
-  console.log(truckItems);
-  let ads = [];
-  for (let m = 0; m < 2; m++) {
-    truckItems[m]["registrationDate"] = "";
-    truckItems[m]["productionDate"] = "";
-    truckItems[m]["title"] = "";
-    truckItems[m]["price"] = "";
-    truckItems[m]["mileage"] = "";
-    truckItems[m]["power"] = "";
-    let url2 = truckItems[m].url;
-    console.log(url2);
-    let response2 = await request2({
-      uri: url2,
+utils.scrapeTruckItem = async (items) => {
+  let adsData = [],
+    item = {};
+  for (let m = 0; m < items.length; m++) {
+    item = items[m];
+    item["registrationDate"] = "";
+    item["productionDate"] = "";
+    item["title"] = "";
+    item["price"] = "";
+    item["mileage"] = "";
+    item["power"] = "";
+    // console.log(item.url);
+    truckItemResponse = await request({
+      uri: item["url"],
       headers: {
         "user-agent":
           "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
       },
     });
+    $ = cheerio.load(truckItemResponse);
 
-    $ = cheerio2.load(response2);
     $("div#parameters ul li").each((i, elm) => {
       let label = $(elm).children("span").text().trim();
       let value = $(elm).children("div").text().trim();
+
       // TODO: Code Refactor here.
       if (label.startsWith("Data pierwszej rejestracji")) {
-        truckItems[m]["registrationDate"] = value;
+        item["registrationDate"] = value;
       } else if (label.startsWith("Rok produkcji")) {
-        truckItems[m]["productionDate"] = value;
+        item["productionDate"] = value;
       } else if (label.startsWith("Przebieg")) {
-        truckItems[m]["mileage"] = value;
+        item["mileage"] = value;
       } else if (label.startsWith("Moc")) {
-        truckItems[m]["power"] = value;
+        item["power"] = value;
       }
     });
 
-    truckItems[m]["title"] = $("span.offer-title.big-text.fake-title")
-      .text()
-      .trim();
-    truckItems[m]["price"] = $("div.wrapper span.offer-price__number")
+    item["title"] = $("span.offer-title.big-text.fake-title").text().trim();
+    item["price"] = $("div.wrapper span.offer-price__number")
       .contents()
       .first()
       .text()
       .trim()
       .replace(" ", ""); // [1]
 
-    delete truckItems[m]["url"]; // [2]
-
-    ads.push(truckItems[m]);
+    delete item["url"]; // [2]
+    adsData.push(item);
   }
-  return ads;
+  return adsData;
 };
 
 // Export the library

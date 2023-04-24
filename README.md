@@ -1,4 +1,4 @@
-This is a Web scrapper project using [Node.js](https://nodejs.org/en) and [Cheerio](https://cheerio.js.org/)
+# A Sraping Project only for www.otomoto.pl site using [Node.js](https://nodejs.org/en) & other libraries.
 
 ## Getting Started
 
@@ -18,9 +18,7 @@ Second, run the development server:
 - [-] Add getTotalAdsCount function - shows how many total ads exist for the provided initial url
   - [x] Find total Truck items in initial page
   - [] Get number advertisements present in the initial url
-- [-] Add scrapeTruckItem function - that scrapes the actual ads and parses into the format: item id, title, price, registration date, production date, mileage, power
-  - [] Code put in separate function
-  - [x] Code implemented
+- [x] Add scrapeTruckItem function - that scrapes the actual ads and parses into the format: item id, title, price, registration date, production date, mileage, power
   - [x] Writing data in CSV file
 - [] BONUS: scraping via otomoto mobile app.
 
@@ -32,11 +30,12 @@ Second, run the development server:
 - Questions
 
   - For the bonus task, may I get additional time like a day?
-  - How to have the code for scrapeTruckItem function as a separate function? IT gives me error whenever I do it.
+
 - Ideas for:
 
   - error catching/solving
     - Using of debugging tool.
+    - StackoverFlow & YouTube (Check References)
 
   - retry strategies
     - Break the data down to more smaller chunk size to analyze.
@@ -53,15 +52,10 @@ I have experience using Selenium with Python.
 
 ### Other considerations?
 
-```
-- Conventions
-  - [] Make the comment for author And also add that in description
-```
-
-## Resources
-
-- https://stackoverflow.com/questions/28652080/how-to-result-the-contents-of-a-javascript-variable-using-cheerio-jquery-like-s
+## References
 
 1.  [Get text in parent without children using cheerio](https://stackoverflow.com/questions/20832910/get-text-in-parent-without-children-using-cheerio)
 
 2.  [Remove Property from an Object](https://www.w3schools.com/howto/howto_js_remove_property_object.aspo)
+
+3.  [How to append new row in exist csv file in nodejs json2csv](https://stackoverflow.com/a/58649501)

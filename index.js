@@ -6,7 +6,7 @@
  *
  */
 
-const request = require("request-promise");
+const request = require("request-promise"); 
 const cheerio = require("cheerio");
 const utils = require("./helper/utils");
 
@@ -50,10 +50,8 @@ const fetch_data = async () => {
       }
       if (data) {
         let advertSearch = JSON.parse(data)["advertSearch"];
-        let pageSize = advertSearch["pageInfo"]["pageSize"];
-
         if (i == 1) {
-          initalUrlAdsCount = pageSize;
+          initalUrlAdsCount = advertSearch["pageInfo"]["pageSize"];
 
           maxPages = parseInt(
             $("li.pagination-item > a > span").eq(-1).text().trim()
@@ -63,66 +61,12 @@ const fetch_data = async () => {
         }
 
         let edges = advertSearch["edges"];
-        let items = utils.addItems(edges);
+        let truckItems = utils.addItems(edges);
 
-        // // TODO: Make this as a ScrapeTruckItem function
-        // let ads = utils.ScrapeTruckItem(items);
-
-        let ads = [],
-          item = {};
-        for (let m = 0; m < items.length; m++) {
-          item = items[m];
-          item["registrationDate"] = "";
-          item["productionDate"] = "";
-          item["title"] = "";
-          item["price"] = "";
-          item["mileage"] = "";
-          item["power"] = "";
-          // console.log(item.url);
-          response = await request({
-            uri: item["url"],
-            headers: {
-              "user-agent":
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
-            },
-          });
-
-          $ = cheerio.load(response);
-          $("div#parameters ul li").each((i, elm) => {
-            let label = $(elm).children("span").text().trim();
-            let value = $(elm).children("div").text().trim();
-
-            // TODO: Code Refactor here.
-            if (label.startsWith("Data pierwszej rejestracji")) {
-              item["registrationDate"] = value;
-            } else if (label.startsWith("Rok produkcji")) {
-              item["productionDate"] = value;
-            } else if (label.startsWith("Przebieg")) {
-              item["mileage"] = value;
-            } else if (label.startsWith("Moc")) {
-              item["power"] = value;
-            }
-          });
-
-          item["title"] = $("span.offer-title.big-text.fake-title")
-            .text()
-            .trim();
-          item["price"] = $("div.wrapper span.offer-price__number")
-            .contents()
-            .first()
-            .text()
-            .trim()
-            .replace(" ", ""); // [1]
-
-          delete item["url"]; // [2]
-
-          ads.push(item);
-        }
-
+        let ads = await utils.scrapeTruckItem(truckItems);
         utils.exportToCsvFile(filePath, ads);
       }
       url = utils.getNextPageUrl(url, i + 1); // TODO: Refactor code
-      console.log("=> getNextPageUrl =", url);
       i++;
     } while (i <= maxPages);
   } catch (e) {
